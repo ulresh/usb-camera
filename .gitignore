@@ -1,0 +1,23 @@
+# Gradle / Android
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+
+# Ключ подписи release-сборки
+*.keystore
+*.jks
+
+# IDE и редакторы
+.idea/
+*.iml
+.vscode/
+emacs-sessions/
+*~
+\#*\#
+.#*
+
+# Временные файлы тестирования
+*.ts
+*.png.tmp
